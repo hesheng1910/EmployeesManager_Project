@@ -126,3 +126,7 @@ E:\ASP.NetCore\EmployeesManager\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreC
 E:\ASP.NetCore\EmployeesManager\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
 E:\ASP.NetCore\EmployeesManager\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.dll
 E:\ASP.NetCore\EmployeesManager\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+E:\ASP.NetCore\EmployeesManager_Project\obj\Debug\QuanLyNhanSu.csprojAssemblyReference.cache
+E:\ASP.NetCore\EmployeesManager_Project\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+E:\ASP.NetCore\EmployeesManager_Project\obj\Debug\QuanLyNhanSu.dll
+E:\ASP.NetCore\EmployeesManager_Project\obj\Debug\QuanLyNhanSu.pdb
