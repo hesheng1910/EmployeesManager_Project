@@ -191,7 +191,7 @@ namespace QuanLyNhanSu.Areas.admin.Controllers
 
                     //tao bang luong
                     luong.MaNhanVien = nv.MaNhanVien;
-                    luong.LuongToiThieu = 1150000;
+                    luong.LuongToiThieu = 1490000;
                     luong.BHXH = 8;
                     luong.BHYT = 1.5;
                     luong.BHTN = 1;
