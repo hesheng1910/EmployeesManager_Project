@@ -10,7 +10,28 @@ body {
     margin-top: 100px;
     /*background-color: #222;*/
 }
+.edit-row {
+    margin-left: 0;
+    margin-right: 10px;
+    /* padding: 10px;*/
+    height: 100%;
+}
 
+.active {
+    background: #0B0B0B;
+    color: red;
+}
+
+.lambda-sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    border: 0;
+}
 @media(min-width:768px) {
     body {
         margin-top: 50px;

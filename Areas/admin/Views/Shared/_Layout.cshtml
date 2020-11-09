@@ -8,17 +8,7 @@
     @Scripts.Render("~/bundles/modernizr")
 
     <style type="text/css">
-        .edit-row {
-            margin-left: 0;
-            margin-right: 10px;
-            /* padding: 10px;*/
-            height: 100%;
-        }
-
-        .active {
-            background: #0B0B0B;
-            color: red;
-        }
+        
     </style>
 
 </head>
@@ -40,12 +30,12 @@
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> Admin <b class="caret"></b></a>
                     <ul class="dropdown-menu">
-                        @*<li>
+                        <li>
                             <a href="#"><i class="fa fa-fw fa-user"></i> Profile</a>
-                        </li>*@
-                        @*<li>
+                        </li>
+                        <li>
                             <a href="#"><i class="fa fa-exchange"></i>  Đổi mật khẩu</a>
-                        </li>*@
+                        </li>
                         <li>
                             <a href="#"><i class="fa fa-fw fa-envelope"></i> Tin nhắn</a>
                         </li>
@@ -77,7 +67,7 @@
                     <li>
                         <a href="@Url.Action("index","KhenThuong")"><i class="fa fa-money"></i> Khen thưởng</a>
                     </li>
-                    @*<li>
+                   @* <li>
                             <a href="javascript:;" data-toggle="collapse" data-target="#demo"><i class="fa fa-fw fa-user"></i> MaNhanVien <i class="fa fa-fw fa-caret-down"></i></a>
                             <ul id="demo" class="collapse">
                                 <li>
@@ -96,8 +86,8 @@
             @RenderBody()
             <hr />
             <footer >
-                <p>&copy; @DateTime.Now.Year - Admin</p>
-                <img style="max-width: 4rem;max-height: 4rem;float: right;margin-right:2rem" src="~/Content/images/logo.png" alt="nature"></p>
+                <p>&copy; @DateTime.Now.Year - Admin
+                <img style="max-width: 4rem;max-height: 4rem;float: right;margin-right:2rem;margin-top:0;" src="~/Content/images/logo.png" alt="nature"></p>
             </footer>
         </div>
 
@@ -106,10 +96,9 @@
     position: fixed;
     bottom: 0;
     margin-bottom: 0;" id="bot">
-        <a id="top" style="float:right;margin:10px" class="btn btn-danger">
-            <span class="glyphicon glyphicon-arrow-up">
-            </span>
-        </a>
+        <a id="top" class="back-to-top" style="display: inline;">
+        <i class="fa fa-chevron-circle-up fa-3x"></i>
+        <span class="lambda-sr-only">Quay lại</span></a>
     </div>
 
 
