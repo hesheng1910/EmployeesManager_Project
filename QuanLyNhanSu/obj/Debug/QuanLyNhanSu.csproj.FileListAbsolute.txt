@@ -126,7 +126,68 @@ E:\ASP.NetCore\EmployeesManager\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreC
 E:\ASP.NetCore\EmployeesManager\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
 E:\ASP.NetCore\EmployeesManager\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.dll
 E:\ASP.NetCore\EmployeesManager\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
-E:\ASP.NetCore\EmployeesManager_Project\obj\Debug\QuanLyNhanSu.csprojAssemblyReference.cache
-E:\ASP.NetCore\EmployeesManager_Project\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
-E:\ASP.NetCore\EmployeesManager_Project\obj\Debug\QuanLyNhanSu.dll
-E:\ASP.NetCore\EmployeesManager_Project\obj\Debug\QuanLyNhanSu.pdb
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\QuanLyNhanSu.dll.config
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\QuanLyNhanSu.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\QuanLyNhanSu.pdb
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Antlr3.Runtime.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\BitPantry.StringWriters.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\ClosedXML.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\DocumentFormat.OpenXml.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\EntityFramework.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\EntityFramework.SqlServer.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Excel.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\ICSharpCode.SharpZipLib.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.Owin.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.Owin.Security.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.Owin.Security.Google.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.Web.Infrastructure.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Newtonsoft.Json.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Owin.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\System.Web.Helpers.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\System.Web.Mvc.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\System.Web.Optimization.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\System.Web.Razor.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\System.Web.WebPages.Deployment.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\System.Web.WebPages.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\System.Web.WebPages.Razor.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\WebGrease.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\ClosedXML.pdb
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\ClosedXML.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Excel.pdb
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\System.Web.Helpers.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\System.Web.Mvc.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\System.Web.Optimization.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\System.Web.Razor.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\System.Web.WebPages.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\System.Web.WebPages.Deployment.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\System.Web.WebPages.Razor.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Newtonsoft.Json.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Antlr3.Runtime.pdb
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\EntityFramework.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\EntityFramework.SqlServer.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.Owin.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.Owin.Security.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.Owin.Security.Google.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Program Files\EmployeesManager\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojAssemblyReference.cache
+D:\Program Files\EmployeesManager\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+D:\Program Files\EmployeesManager\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+D:\Program Files\EmployeesManager\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.dll
+D:\Program Files\EmployeesManager\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
