@@ -242,61 +242,6 @@ namespace QuanLyNhanSu.Areas.admin.Controllers
             var ds = db.LuanChuyenNhanViens.Where(n => n.MaNhanVien == id).ToList();
             return View(ds);
         }
-
-        public ActionResult XuatFileExel()
-        {
-
-            var ds = db.NhanViens.Where(n => n.MaNhanVien != "admin" && n.MaHopDong != null).ToList();
-            var phong = db.PhongBans.ToList();
-            var gv = new GridView();
-            //===================================================
-            DataTable dt = new DataTable();
-            //Add Datacolumn
-            DataColumn workCol = dt.Columns.Add("Họ tên", typeof(String));
-
-            dt.Columns.Add("Phòng ban", typeof(String));
-            dt.Columns.Add("Chức vụ", typeof(String));
-            dt.Columns.Add("Học vấn", typeof(String));
-            dt.Columns.Add("Chuyên ngành", typeof(String));
-
-            //Add in the datarow
-
-
-            foreach (var item in ds)
-            {
-                DataRow newRow = dt.NewRow();
-                newRow["Họ tên"] = item.HoTen;
-                newRow["Phòng ban"] = item.PhongBan.TenPhongBan;
-                newRow["Chức vụ"] = item.ChucVuNhanVien.TenChucVu;
-                newRow["Học vấn"] = item.TrinhDoHocVan.TenTrinhDo;
-                newRow["Chuyên ngành"] = item.ChuyenNganh.TenChuyenNganh;
-
-                dt.Rows.Add(newRow);
-            }
-
-            //====================================================
-            gv.DataSource = dt;
-            // gv.DataSource = ds;
-            gv.DataBind();
-
-            Response.ClearContent();
-            Response.Buffer = true;
-
-            Response.AddHeader("content-disposition", "attachment; filename=danh-sach.xls");
-            Response.ContentType = "application/ms-excel";
-
-            Response.Charset = "";
-            StringWriter objStringWriter = new StringWriter();
-            HtmlTextWriter objHtmlTextWriter = new HtmlTextWriter(objStringWriter);
-
-            gv.RenderControl(objHtmlTextWriter);
-
-            Response.Output.Write(objStringWriter.ToString());
-            Response.Flush();
-            Response.End();
-            return Redirect("/admin/QuanLyUser");
-        }
-
         public ActionResult QuaTrinhHoc(String id)
         {
             var ht = db.CapNhatTrinhDoHocVans.Where(n => n.MaNhanVien == id).ToList();

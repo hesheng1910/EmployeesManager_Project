@@ -31,10 +31,6 @@
         <a class="btn btn-primary" href="@Url.Action("ThemUser", "QuanLyUser")">
             Thêm nhân viên
         </a>
-
-        <a class="btn btn-primary " href="@Url.Action("XuatFileExel", "QuanLyUser")">
-            Xuất danh sách nhân viên
-        </a>
     </div>
 </div>
 
@@ -101,7 +97,7 @@
                         <td>@tenTrinhDo</td>
                         <td>@gioitinh</td>
                         <td>
-                            @String.Format("{0:dd/MM/yyyy}", @item.HopDong.NgayBatDau)
+                            @*@String.Format("{0:dd/MM/yyyy}", @item.HopDong.NgayBatDau)
                         @{
                     DateTime ngaydau = Convert.ToDateTime(@item.HopDong.NgayBatDau);
                     DateTime ngaysau = DateTime.Now.Date;
@@ -109,7 +105,8 @@
                     
                     int sonam = (int)Times.Days/365;
                     
-                        }
+                        }*@
+                            19/10/2000
                        
                     </td>
                     <td>
